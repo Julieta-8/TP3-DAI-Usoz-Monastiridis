@@ -1,0 +1,23 @@
+{
+  "name": "tp3-dai-usoz-monastiridis",
+  "version": "1.0.0",
+  "description": "\"# TP3-DAI-Usoz-Monastiridis\"",
+  "homepage": "https://github.com/Julieta-8/TP3-DAI-Usoz-Monastiridis#readme",
+  "bugs": {
+    "url": "https://github.com/Julieta-8/TP3-DAI-Usoz-Monastiridis/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julieta-8/TP3-DAI-Usoz-Monastiridis.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
