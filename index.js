@@ -10,3 +10,13 @@ function LeerObj(Obj){
            fs.writeFileSync(Obj[i] , contenido);
     }
 }
+
+//EJericio 7
+
+setTimeout(() => {
+    for(let i; i < 10; i++){
+const intervaloId = setInterval(() => {
+  console.log(i);
+}, 1000);
+    }
+}, 10000, "Fin del contador"); 
