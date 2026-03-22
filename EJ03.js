@@ -1,12 +1,12 @@
-import dayjs = require("dayjs");
+import dayjs form 'dayjs';
 
 //fecha actual
-const now = dayjs();
-console.log(now)
+
+console.log(dayjs().format('DD/MM/YYYY'));
 
 
 //hora actual
-const Hora = dayjs().hour()
+console.log(dayjs().format('HH:mm:ss'));
 
 //fecha formateada
 
